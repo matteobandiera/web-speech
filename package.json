@@ -1,0 +1,25 @@
+{
+  "name": "web-speech-api",
+  "version": "0.0.1",
+  "description": "Example of web application using the Web Speech API's SpeechRecognition and SpeechSynthesis interfaces",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "speech-api",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Matteo Bandiera",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "2.7.0"
+  }
+}
